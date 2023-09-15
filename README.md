@@ -24,3 +24,34 @@ Please take follow a step
 Step 1. 
 
 ![Main Stream Image](img-step/Step-1.png)
+
+Step 2.
+
+![Main Stream Image](img-step/Step-2.png)
+
+Step 3.
+
+![Main Stream Image](img-step/Step-3.png)
+
+Step 4.
+
+![Main Stream Image](img-step/Step-4.png)
+
+Step 5. 
+
+![Main Stream Image](img-step/Step-5.png)
+
+Step 6.
+
+![Main Stream Image](img-step/Step-6.png)
+
+Step 7.
+
+![Main Stream Image](img-step/Step-7.png)
+
+Step 8.
+
+
+![Main Stream Image](img-step/Step-8.png)
+
+
