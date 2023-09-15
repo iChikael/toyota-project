@@ -2,7 +2,7 @@
 
 Before running project
 
-Please take follow a step
+## Please follow these steps
 
 1. Create new schema at MySQL
 
@@ -20,7 +20,7 @@ Please take follow a step
 
 7. Find username at table `user` in MySQL, password is `123`
 
-# The project follows the main stream.
+## The project follows the main stream.
 
 Step 1. 
 
@@ -48,18 +48,25 @@ On this page, enter the time, mileage, select the repair package, and then click
 
 Step 5. 
 
+On this page, select payment information, and then click on the "Create Order" button.
+
 ![Main Stream Image](img-step/Step-5.png)
 
 Step 6.
+
+On this page, proceed to move the vehicle to the necessary repair areas according to the selected package.
 
 ![Main Stream Image](img-step/Step-6.png)
 
 Step 7.
 
+On this page, click on the "Payment" button.
+
 ![Main Stream Image](img-step/Step-7.png)
 
 Step 8.
 
+On this page, click on the "Payment" button after receiving payment from the customer.
 
 ![Main Stream Image](img-step/Step-8.png)
 
