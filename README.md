@@ -18,6 +18,7 @@ Please take follow a step
 6. At nodejs-manage-toyota-car-maintenance-process in VSCODE running commane line 
  `npm i`,  `node .`
 
+7. Find username at table `user` in MySQL, password is `123`
 
 # The project follows the main stream.
 
