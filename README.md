@@ -12,6 +12,15 @@ Please take follow a step
 
 4. At MySQL running file toyota-update-bill-full.sql
 
-5. At reactjs-dashboard-toyota-car-maintenance-process in VSCODE running commane line ` npm i	 `,  ` npm start	 `
+5. At reactjs-dashboard-toyota-car-maintenance-process in VSCODE running commane line
+ ` npm i	 `,  ` npm start	 `
 
-6. At nodejs-manage-toyota-car-maintenance-process in VSCODE running commane line ` npm i	 `,  ` node .	 `
+6. At nodejs-manage-toyota-car-maintenance-process in VSCODE running commane line 
+ ` npm i	 `,  ` node .	 `
+
+
+# The project follows the main stream.
+
+Step 1. 
+
+![Main Stream Image](img-step/Step-1.png)
